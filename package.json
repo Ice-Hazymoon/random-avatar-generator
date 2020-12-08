@@ -1,0 +1,10 @@
+{
+  "name": "random-avatar-generator",
+  "author": "Ice-Hazymoon",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.26.2"
+  }
+}
